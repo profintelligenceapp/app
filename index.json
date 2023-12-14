@@ -1,6 +1,5 @@
 {
-   "matchMaster":{
-      "uri":"https://www.matchmaster-app.com/",
-      "isWebView":true
+   "slotDiscover":{
+      "uri":"https://www.slot-discover.com/"
    }
 }
